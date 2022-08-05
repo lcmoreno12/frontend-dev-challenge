@@ -4,6 +4,10 @@
   </a>
 </p>
 <br />
+##FIGMA DESIGN:
+##https://www.figma.com/file/wTsf5QGZqllu3sxUxdBbnx/weRemoteLuciaMoreno?node-id=14%3A16
+##Deployed in:
+##https://frontend-dev-challenge-five.vercel.app/
 
 ## Descripción
 **Frontend DEV Challenge** es una prueba de admisión para desarrolladores en HTML, CSS, JavaScript.
