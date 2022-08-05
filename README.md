@@ -4,9 +4,11 @@
   </a>
 </p>
 <br />
-## FIGMA DESIGN:
+## DESIGN
+**My figma design** 
 https://www.figma.com/file/wTsf5QGZqllu3sxUxdBbnx/weRemoteLuciaMoreno?node-id=14%3A16
-## Deployed in:
+## DEPLOY
+**Vercel** 
 https://frontend-dev-challenge-five.vercel.app/
 
 ## Descripción
